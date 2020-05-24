@@ -86,7 +86,7 @@ namespace AS91883
                     //restore player's chooice
                     NoAnswer = int.Parse(Console.ReadLine());
                 }
-                // if player's answer is correct
+                //if player's answer is correct
                 if (NoAnswer == 1)
                 {
                     //show them their answer is correct
